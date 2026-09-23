@@ -7,6 +7,10 @@ rgs = {
     name     = "rg-vm1"
     location = "centralindia"
   }
+   rg2 = {
+    name     = "rg-vm2"
+    location = "centralindia"
+  }
 }
 
 vnets = {
